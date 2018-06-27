@@ -1,0 +1,9 @@
+server:
+  port: 8974
+
+
+sms:
+  phone: ***,***,***
+  url: ***
+
+listenUrl: ***
